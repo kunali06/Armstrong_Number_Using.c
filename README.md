@@ -1,1 +1,0 @@
-# Armstrong_Number_Using.c
